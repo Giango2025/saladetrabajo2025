@@ -13,6 +13,8 @@ namespace ConsoleApp2
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("Soy Franco");
             Console.WriteLine("Este es el curso de fundamentos de algoritmos");
+            Console.WriteLine("NRC 6414");
+
         }
     }
 }
